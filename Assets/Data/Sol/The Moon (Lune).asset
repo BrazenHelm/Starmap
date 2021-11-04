@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac653d1fb17cffe48ae16a1382716e99, type: 3}
+  m_Name: The Moon (Lune)
+  m_EditorClassIdentifier: 
+  objectType: 2
+  sprite: {fileID: 21300000, guid: d35937e2fe789d4409d12f8701ba5d7d, type: 3}
+  classification: Natural Satellite
+  size: 3,500
+  solarMasses: 
+  age: 
+  temperature: -40
+  gravity: 1.6
+  population: 1.4 million
